@@ -3,7 +3,7 @@
 ## Structural Diagrams
 
 ### Component Diagram:
-![](component_diagram.png)
+![](Component_diagram.png)
 
 ### Class Diagram:
 ![](Class_Diagram.png)
